@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Assignment4</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_touch_event_view">TouchEventView</string>
+    <string name="title_activity_circle_view">CircleView</string>
+    <string name="title_activity_circle">Circle</string>
+
+</resources>
